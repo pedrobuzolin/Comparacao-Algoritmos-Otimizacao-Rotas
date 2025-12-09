@@ -29,3 +29,10 @@ Apesar de ser teoricamente superior ao Hill Climb, o SA demonstrou um comportame
 
 
 ![Gráfico de Custo Computacional dos Algoritmos](Imagens/tempo_geral.png)
+
+
+## 📚 Material de Referência e Artigo Completo
+
+Para uma análise metodológica completa, tabelas detalhadas e resultados estatísticos, acesse o trabalho na íntegra:
+
+* **Artigo Completo (PDF):** [Acessar o TCC na Íntegra](https://drive.google.com/file/d/1LBX2M3xrpdxmTPk6f8zhXbY1zgJJmMJC/view?usp=sharing)
